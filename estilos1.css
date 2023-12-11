@@ -1,0 +1,22 @@
+#titulo1{
+  display:inline;
+}
+#titulo2{
+  display:inline;
+  font-weight: normal;
+}
+.img1{
+  margin: 20px   20px   20px   0px;
+  display:inline;
+  border-image: 5px;
+}
+main{
+  margin: 50px;
+}
+#seccion1{
+  float: right;
+  width: 50%;
+}
+#seccion2{
+  margin: 20px   30px   0px   10px; 
+}

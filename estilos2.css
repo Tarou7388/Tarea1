@@ -1,0 +1,26 @@
+main{
+  margin: 35px;
+}
+.card1{
+  height: 300px;
+  width: 500px;
+  float: left;
+  margin: 0px 20px 0px 0px;
+}
+.botoncarta{
+  position: absolute;
+  bottom: 15px;
+}
+.card2{
+  height: 600px;
+  width: 500px;
+  float: left;
+  margin: 0px 20px 0px 0px;
+}
+.img1{
+  position: absolute;
+  right: 300px;
+}
+footer{
+  margin: 35px;;
+}
